@@ -1,0 +1,14 @@
+{
+  "name": "static-mathis",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathis Audureau",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
